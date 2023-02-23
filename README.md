@@ -1,6 +1,6 @@
 # Minimal App with React
 
-#Léo Guirado
+## Léo Guirado
 
 Here is a minimal template for creating an App with React JS.
 
