@@ -9,13 +9,13 @@ Here is a minimal template for creating an App with React JS.
 Clone the repositiory from your console.
 
 ```bash
-  git clone https://github.com/horotopia/React_Template.git
+  git clone https://github.com/horotopia/React_TypeScript_Template.git
 ```
 
 Run this command in your console to install all needed dependencies from package.json.
 
 ```bash
-  npm install
+  npm i
 ```
 
 ### Launch the server
@@ -23,7 +23,7 @@ Run this command in your console to install all needed dependencies from package
 Run this command in your console to launch the server.
 
 ```bash
-  node app.js
+  npm start
 ```
 
 ### Try it
